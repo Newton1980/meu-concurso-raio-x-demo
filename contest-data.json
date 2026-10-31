@@ -1,0 +1,1596 @@
+{
+  "schemaVersion": "1.0.0",
+  "product": "MEU CONCURSO | RAIO-X DO EDITAL",
+  "productId": "meu-concurso-raio-x",
+  "contestId": "qscon-2027-serep-rj",
+  "dataVersion": "2.2.2",
+  "validationStatus": "READY_FOR_COMMERCIAL_REVIEW",
+  "contest": {
+    "name": "QSCon 2027 — SEREP-RJ",
+    "type": "Processo seletivo de serviço militar temporário voluntário",
+    "notice": "AVICON QSCon 2027",
+    "ordinance": "Portaria DIRAP nº 704/2SM1",
+    "ordinanceDate": "2026-10-25",
+    "publicationDate": "2026-10-27",
+    "year": 2027,
+    "totalVacancies": 194,
+    "geographicScope": "Área de atuação do SEREP-RJ",
+    "timezone": "America/Sao_Paulo"
+  },
+  "institutions": {
+    "organization": "Comando da Aeronáutica",
+    "responsible": "Diretoria de Administração do Pessoal (DIRAP)",
+    "regional": "SEREP-RJ",
+    "selectionCommission": "Comissões de Seleção Interna (CSI)"
+  },
+  "positions": [
+    {
+      "id": "tad",
+      "code": "TAD",
+      "name": "Administração",
+      "vacancies": 46,
+      "locations": [
+        {
+          "id": "BB",
+          "name": "Barbacena",
+          "vacancies": 3
+        },
+        {
+          "id": "MG",
+          "name": "Lagoa Santa / Belo Horizonte / Confins",
+          "vacancies": 8
+        },
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 35
+        }
+      ],
+      "requirements": "Curso Técnico em Administração (ou Contabilidade); mínimo 800 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tcz",
+      "code": "TCZ",
+      "name": "Cozinheiro",
+      "vacancies": 5,
+      "locations": [
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 5
+        }
+      ],
+      "requirements": "Curso Técnico em Cozinha (ou Gastronomia); mínimo 800 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tde",
+      "code": "TDE",
+      "name": "Desenho",
+      "vacancies": 2,
+      "locations": [
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 2
+        }
+      ],
+      "requirements": "Curso Técnico em Design Gráfico; mínimo 1000 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tee",
+      "code": "TEE",
+      "name": "Eletricidade",
+      "vacancies": 20,
+      "locations": [
+        {
+          "id": "BB",
+          "name": "Barbacena",
+          "vacancies": 2
+        },
+        {
+          "id": "MG",
+          "name": "Lagoa Santa / Belo Horizonte / Confins",
+          "vacancies": 3
+        },
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 15
+        }
+      ],
+      "requirements": "Curso Técnico em Eletroeletrônica (ou Eletrotécnica, Mecatrônica ou Eletromecânica); mínimo 1200 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tef",
+      "code": "TEF",
+      "name": "Enfermagem",
+      "vacancies": 26,
+      "locations": [
+        {
+          "id": "MG",
+          "name": "Lagoa Santa / Belo Horizonte / Confins",
+          "vacancies": 1
+        },
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 25
+        }
+      ],
+      "requirements": "Curso Técnico em Enfermagem; mínimo 1200 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tem",
+      "code": "TEM",
+      "name": "Eletromecânica",
+      "vacancies": 8,
+      "locations": [
+        {
+          "id": "MG",
+          "name": "Lagoa Santa / Belo Horizonte / Confins",
+          "vacancies": 2
+        },
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 6
+        }
+      ],
+      "requirements": "Curso Técnico em Eletromecânica; mínimo 1200 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tet",
+      "code": "TET",
+      "name": "Eletrônica",
+      "vacancies": 19,
+      "locations": [
+        {
+          "id": "MG",
+          "name": "Lagoa Santa / Belo Horizonte / Confins",
+          "vacancies": 4
+        },
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 15
+        }
+      ],
+      "requirements": "Curso Técnico em Eletrônica; mínimo 1200 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tin",
+      "code": "TIN",
+      "name": "Informática",
+      "vacancies": 31,
+      "locations": [
+        {
+          "id": "BB",
+          "name": "Barbacena",
+          "vacancies": 4
+        },
+        {
+          "id": "MG",
+          "name": "Lagoa Santa / Belo Horizonte / Confins",
+          "vacancies": 2
+        },
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 25
+        }
+      ],
+      "requirements": "Curso Técnico em Desenvolvimento de Sistemas (1200h), Informática para Internet (1000h), Informática (1200h), Redes de Computadores (1000h), Telecomunicações (1200h), Computação Gráfica (1000h), Programação de Jogos Digitais (1000h) ou Manutenção e Suporte em Informática (1000h)",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tlb",
+      "code": "TLB",
+      "name": "Laboratório",
+      "vacancies": 4,
+      "locations": [
+        {
+          "id": "BB",
+          "name": "Barbacena",
+          "vacancies": 1
+        },
+        {
+          "id": "MG",
+          "name": "Lagoa Santa / Belo Horizonte / Confins",
+          "vacancies": 1
+        },
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 2
+        }
+      ],
+      "requirements": "Curso Técnico em Laboratório (ou Análises Clínicas); mínimo 1200 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tlg",
+      "code": "TLG",
+      "name": "Logística",
+      "vacancies": 2,
+      "locations": [
+        {
+          "id": "MG",
+          "name": "Lagoa Santa / Belo Horizonte / Confins",
+          "vacancies": 2
+        }
+      ],
+      "requirements": "Curso Técnico em Logística; mínimo 800 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tma01",
+      "code": "TMA01",
+      "name": "Mecânica de Aeronaves — Aviônicos",
+      "vacancies": 5,
+      "locations": [
+        {
+          "id": "MG",
+          "name": "Lagoa Santa / Belo Horizonte / Confins",
+          "vacancies": 3
+        },
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 2
+        }
+      ],
+      "requirements": "Curso Técnico em Manutenção de Aeronaves; mínimo 1200 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tma02",
+      "code": "TMA02",
+      "name": "Mecânica de Aeronaves — Célula",
+      "vacancies": 2,
+      "locations": [
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 2
+        }
+      ],
+      "requirements": "Curso Técnico em Manutenção de Aeronaves; mínimo 1200 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tma03",
+      "code": "TMA03",
+      "name": "Mecânica de Aeronaves — Grupo Motopropulsor",
+      "vacancies": 2,
+      "locations": [
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 2
+        }
+      ],
+      "requirements": "Curso Técnico em Manutenção de Aeronaves; mínimo 1200 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tme",
+      "code": "TME",
+      "name": "Meteorologia",
+      "vacancies": 5,
+      "locations": [
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 5
+        }
+      ],
+      "requirements": "Curso Técnico em Meteorologia; mínimo 1000 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tml",
+      "code": "TML",
+      "name": "Metalurgia",
+      "vacancies": 4,
+      "locations": [
+        {
+          "id": "MG",
+          "name": "Lagoa Santa / Belo Horizonte / Confins",
+          "vacancies": 2
+        },
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 2
+        }
+      ],
+      "requirements": "Curso Técnico em Metalurgia; mínimo 1200 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tnd",
+      "code": "TND",
+      "name": "Nutrição e Dietética",
+      "vacancies": 1,
+      "locations": [
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 1
+        }
+      ],
+      "requirements": "Curso Técnico em Nutrição e Dietética; mínimo 1200 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tob",
+      "code": "TOB",
+      "name": "Obras",
+      "vacancies": 5,
+      "locations": [
+        {
+          "id": "BB",
+          "name": "Barbacena",
+          "vacancies": 1
+        },
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 4
+        }
+      ],
+      "requirements": "Curso Técnico em Edificações (ou Construção Civil); mínimo 1200 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tsb",
+      "code": "TSB",
+      "name": "Saúde Bucal",
+      "vacancies": 4,
+      "locations": [
+        {
+          "id": "MG",
+          "name": "Lagoa Santa / Belo Horizonte / Confins",
+          "vacancies": 1
+        },
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 3
+        }
+      ],
+      "requirements": "Curso Técnico em Saúde Bucal; mínimo 1200 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 43,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tsg",
+      "code": "TSG",
+      "name": "Segurança e Defesa",
+      "vacancies": 1,
+      "locations": [
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 1
+        }
+      ],
+      "requirements": "Curso Técnico em qualquer área; CFSD (FAB ou Exército) ou CFRN (Marinha) concluído nos últimos 10 anos; ingresso no serviço militar obrigatório e permanência mínima de 2 anos em uma das três Forças Armadas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 43,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tst",
+      "code": "TST",
+      "name": "Segurança do Trabalho",
+      "vacancies": 2,
+      "locations": [
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 2
+        }
+      ],
+      "requirements": "Curso Técnico em Segurança do Trabalho; mínimo 1200 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 43,
+          "item": "Anexo E"
+        }
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "id": "tad",
+      "code": "TAD",
+      "name": "Administração",
+      "vacancies": 46,
+      "locations": [
+        {
+          "id": "BB",
+          "name": "Barbacena",
+          "vacancies": 3
+        },
+        {
+          "id": "MG",
+          "name": "Lagoa Santa / Belo Horizonte / Confins",
+          "vacancies": 8
+        },
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 35
+        }
+      ],
+      "requirements": "Curso Técnico em Administração (ou Contabilidade); mínimo 800 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tcz",
+      "code": "TCZ",
+      "name": "Cozinheiro",
+      "vacancies": 5,
+      "locations": [
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 5
+        }
+      ],
+      "requirements": "Curso Técnico em Cozinha (ou Gastronomia); mínimo 800 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tde",
+      "code": "TDE",
+      "name": "Desenho",
+      "vacancies": 2,
+      "locations": [
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 2
+        }
+      ],
+      "requirements": "Curso Técnico em Design Gráfico; mínimo 1000 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tee",
+      "code": "TEE",
+      "name": "Eletricidade",
+      "vacancies": 20,
+      "locations": [
+        {
+          "id": "BB",
+          "name": "Barbacena",
+          "vacancies": 2
+        },
+        {
+          "id": "MG",
+          "name": "Lagoa Santa / Belo Horizonte / Confins",
+          "vacancies": 3
+        },
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 15
+        }
+      ],
+      "requirements": "Curso Técnico em Eletroeletrônica (ou Eletrotécnica, Mecatrônica ou Eletromecânica); mínimo 1200 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tef",
+      "code": "TEF",
+      "name": "Enfermagem",
+      "vacancies": 26,
+      "locations": [
+        {
+          "id": "MG",
+          "name": "Lagoa Santa / Belo Horizonte / Confins",
+          "vacancies": 1
+        },
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 25
+        }
+      ],
+      "requirements": "Curso Técnico em Enfermagem; mínimo 1200 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tem",
+      "code": "TEM",
+      "name": "Eletromecânica",
+      "vacancies": 8,
+      "locations": [
+        {
+          "id": "MG",
+          "name": "Lagoa Santa / Belo Horizonte / Confins",
+          "vacancies": 2
+        },
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 6
+        }
+      ],
+      "requirements": "Curso Técnico em Eletromecânica; mínimo 1200 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tet",
+      "code": "TET",
+      "name": "Eletrônica",
+      "vacancies": 19,
+      "locations": [
+        {
+          "id": "MG",
+          "name": "Lagoa Santa / Belo Horizonte / Confins",
+          "vacancies": 4
+        },
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 15
+        }
+      ],
+      "requirements": "Curso Técnico em Eletrônica; mínimo 1200 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tin",
+      "code": "TIN",
+      "name": "Informática",
+      "vacancies": 31,
+      "locations": [
+        {
+          "id": "BB",
+          "name": "Barbacena",
+          "vacancies": 4
+        },
+        {
+          "id": "MG",
+          "name": "Lagoa Santa / Belo Horizonte / Confins",
+          "vacancies": 2
+        },
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 25
+        }
+      ],
+      "requirements": "Curso Técnico em Desenvolvimento de Sistemas (1200h), Informática para Internet (1000h), Informática (1200h), Redes de Computadores (1000h), Telecomunicações (1200h), Computação Gráfica (1000h), Programação de Jogos Digitais (1000h) ou Manutenção e Suporte em Informática (1000h)",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tlb",
+      "code": "TLB",
+      "name": "Laboratório",
+      "vacancies": 4,
+      "locations": [
+        {
+          "id": "BB",
+          "name": "Barbacena",
+          "vacancies": 1
+        },
+        {
+          "id": "MG",
+          "name": "Lagoa Santa / Belo Horizonte / Confins",
+          "vacancies": 1
+        },
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 2
+        }
+      ],
+      "requirements": "Curso Técnico em Laboratório (ou Análises Clínicas); mínimo 1200 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tlg",
+      "code": "TLG",
+      "name": "Logística",
+      "vacancies": 2,
+      "locations": [
+        {
+          "id": "MG",
+          "name": "Lagoa Santa / Belo Horizonte / Confins",
+          "vacancies": 2
+        }
+      ],
+      "requirements": "Curso Técnico em Logística; mínimo 800 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tma01",
+      "code": "TMA01",
+      "name": "Mecânica de Aeronaves — Aviônicos",
+      "vacancies": 5,
+      "locations": [
+        {
+          "id": "MG",
+          "name": "Lagoa Santa / Belo Horizonte / Confins",
+          "vacancies": 3
+        },
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 2
+        }
+      ],
+      "requirements": "Curso Técnico em Manutenção de Aeronaves; mínimo 1200 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tma02",
+      "code": "TMA02",
+      "name": "Mecânica de Aeronaves — Célula",
+      "vacancies": 2,
+      "locations": [
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 2
+        }
+      ],
+      "requirements": "Curso Técnico em Manutenção de Aeronaves; mínimo 1200 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tma03",
+      "code": "TMA03",
+      "name": "Mecânica de Aeronaves — Grupo Motopropulsor",
+      "vacancies": 2,
+      "locations": [
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 2
+        }
+      ],
+      "requirements": "Curso Técnico em Manutenção de Aeronaves; mínimo 1200 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tme",
+      "code": "TME",
+      "name": "Meteorologia",
+      "vacancies": 5,
+      "locations": [
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 5
+        }
+      ],
+      "requirements": "Curso Técnico em Meteorologia; mínimo 1000 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tml",
+      "code": "TML",
+      "name": "Metalurgia",
+      "vacancies": 4,
+      "locations": [
+        {
+          "id": "MG",
+          "name": "Lagoa Santa / Belo Horizonte / Confins",
+          "vacancies": 2
+        },
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 2
+        }
+      ],
+      "requirements": "Curso Técnico em Metalurgia; mínimo 1200 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tnd",
+      "code": "TND",
+      "name": "Nutrição e Dietética",
+      "vacancies": 1,
+      "locations": [
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 1
+        }
+      ],
+      "requirements": "Curso Técnico em Nutrição e Dietética; mínimo 1200 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tob",
+      "code": "TOB",
+      "name": "Obras",
+      "vacancies": 5,
+      "locations": [
+        {
+          "id": "BB",
+          "name": "Barbacena",
+          "vacancies": 1
+        },
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 4
+        }
+      ],
+      "requirements": "Curso Técnico em Edificações (ou Construção Civil); mínimo 1200 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 42,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tsb",
+      "code": "TSB",
+      "name": "Saúde Bucal",
+      "vacancies": 4,
+      "locations": [
+        {
+          "id": "MG",
+          "name": "Lagoa Santa / Belo Horizonte / Confins",
+          "vacancies": 1
+        },
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 3
+        }
+      ],
+      "requirements": "Curso Técnico em Saúde Bucal; mínimo 1200 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 43,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tsg",
+      "code": "TSG",
+      "name": "Segurança e Defesa",
+      "vacancies": 1,
+      "locations": [
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 1
+        }
+      ],
+      "requirements": "Curso Técnico em qualquer área; CFSD (FAB ou Exército) ou CFRN (Marinha) concluído nos últimos 10 anos; ingresso no serviço militar obrigatório e permanência mínima de 2 anos em uma das três Forças Armadas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 43,
+          "item": "Anexo E"
+        }
+      ]
+    },
+    {
+      "id": "tst",
+      "code": "TST",
+      "name": "Segurança do Trabalho",
+      "vacancies": 2,
+      "locations": [
+        {
+          "id": "RJ",
+          "name": "Rio de Janeiro",
+          "vacancies": 2
+        }
+      ],
+      "requirements": "Curso Técnico em Segurança do Trabalho; mínimo 1200 horas",
+      "sourceReferences": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 40,
+          "item": "Anexo D"
+        },
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 43,
+          "item": "Anexo E"
+        }
+      ]
+    }
+  ],
+  "vacancies": {
+    "total": 194,
+    "general": 135,
+    "black": 49,
+    "indigenous": 6,
+    "quilombola": 4,
+    "source": {
+      "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+      "page": 41,
+      "item": "Anexo D — Cálculo da reserva de vagas"
+    },
+    "note": "Reserva calculada sobre o total do certame, não distribuída por especialidade no Anexo D"
+  },
+  "compensation": {
+    "initial": null,
+    "maximum": null,
+    "benefits": null,
+    "note": "NÃO INFORMADO NO EDITAL em valores monetários; o item 1.8.13 trata de adicional de habilitação sem quantificação"
+  },
+  "registration": {
+    "start": "2026-10-29T10:00:00-03:00",
+    "end": "2026-11-11T23:59:00-03:00",
+    "fee": null,
+    "feeStatus": "NÃO INFORMADO NO EDITAL",
+    "url": "https://www.convocacaotemporarios.fab.mil.br",
+    "oneSpecialtyAndLocationOnly": true,
+    "source": {
+      "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+      "page": 34,
+      "item": "Anexo B, evento 3"
+    }
+  },
+  "mainDeadlines": [
+    {
+      "name": "Inscrições",
+      "start": "2026-10-29T10:00:00-03:00",
+      "end": "2026-11-11T23:59:00-03:00",
+      "source": {
+        "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+        "page": 34,
+        "item": "Anexo B"
+      }
+    },
+    {
+      "name": "Entrega de documentos",
+      "start": "2026-11-23",
+      "end": "2026-12-04",
+      "source": {
+        "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+        "page": 34,
+        "item": "Anexo B"
+      }
+    },
+    {
+      "name": "Validação documental",
+      "start": "2026-11-23",
+      "end": "2026-12-17",
+      "source": {
+        "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+        "page": 35,
+        "item": "Anexo B"
+      }
+    },
+    {
+      "name": "Avaliação curricular",
+      "start": "2026-11-23",
+      "end": "2027-01-12",
+      "source": {
+        "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+        "page": 35,
+        "item": "Anexo B"
+      }
+    },
+    {
+      "name": "Classificação provisória",
+      "start": "2027-01-14",
+      "end": "2027-01-14",
+      "source": {
+        "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+        "page": 35,
+        "item": "Anexo B"
+      }
+    },
+    {
+      "name": "Classificação definitiva",
+      "start": "2027-01-25",
+      "end": "2027-01-25",
+      "source": {
+        "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+        "page": 35,
+        "item": "Anexo B"
+      }
+    },
+    {
+      "name": "Concentração inicial",
+      "start": "2027-03-01",
+      "end": "2027-03-01",
+      "source": {
+        "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+        "page": 35,
+        "item": "Anexo B"
+      }
+    },
+    {
+      "name": "Inspeção de saúde",
+      "start": "2027-03-04",
+      "end": "2027-03-16",
+      "source": {
+        "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+        "page": 36,
+        "item": "Anexo B"
+      }
+    },
+    {
+      "name": "Teste físico (TACF)",
+      "start": "2027-04-08",
+      "end": "2027-04-14",
+      "source": {
+        "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+        "page": 36,
+        "item": "Anexo B"
+      }
+    },
+    {
+      "name": "Resultado dos habilitados",
+      "start": "2027-05-14",
+      "end": "2027-05-14",
+      "source": {
+        "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+        "page": 38,
+        "item": "Anexo B"
+      }
+    },
+    {
+      "name": "Convocação para incorporação",
+      "start": "2027-05-20",
+      "end": "2027-05-20",
+      "source": {
+        "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+        "page": 38,
+        "item": "Anexo B"
+      }
+    },
+    {
+      "name": "Incorporação",
+      "start": "2027-05-24",
+      "end": "2027-05-24",
+      "source": {
+        "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+        "page": 38,
+        "item": "Anexo B"
+      }
+    }
+  ],
+  "examSummary": {
+    "objectiveTest": false,
+    "questionCount": null,
+    "duration": null,
+    "subjects": [],
+    "note": "Não há prova objetiva prevista nas etapas do item 5.1.1; há avaliação curricular e etapas de aptidão"
+  },
+  "subjects": [],
+  "mainStages": [
+    "Entrega de Documentos (ED)",
+    "Validação Documental (VD)",
+    "Avaliação Curricular (AC)",
+    "Concentração Inicial (CI)",
+    "Inspeção de Saúde (INSPSAU)",
+    "Teste de Avaliação do Condicionamento Físico (TACF)",
+    "Concentração Final e Habilitação à Incorporação (CF), PCCA e PVDoc"
+  ],
+  "mainRisks": [
+    {
+      "title": "Idade e tempo de serviço",
+      "detail": "Ter ao menos 18 anos e não ter completado 41 anos na incorporação; regras adicionais para tempo de serviço militar anterior",
+      "source": {
+        "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+        "page": 10,
+        "item": "Item 3.1.1, alíneas c e e"
+      }
+    },
+    {
+      "title": "Uma especialidade e uma localidade",
+      "detail": "É permitida inscrição para uma única especialidade e localidade",
+      "source": {
+        "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+        "page": 12,
+        "item": "Item 4.1.9"
+      }
+    },
+    {
+      "title": "Documentação e comprovação",
+      "detail": "Acompanhar exigências dos Anexos F e O e comprovar requisitos do Anexo E; falhas podem levar à exclusão",
+      "source": {
+        "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+        "page": 13,
+        "item": "Itens 5.1 e 5.2"
+      }
+    },
+    {
+      "title": "Ausência nas etapas",
+      "detail": "Não há segunda chamada; datas, locais e horários publicados pela CSI são vinculantes",
+      "source": {
+        "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+        "page": 13,
+        "item": "Item 5.1.2"
+      }
+    },
+    {
+      "title": "Aptidão física e saúde",
+      "detail": "Inspeção de Saúde e TACF integram as etapas da seleção",
+      "source": {
+        "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+        "page": 13,
+        "item": "Item 5.1.1"
+      }
+    },
+    {
+      "title": "Condições funcionais e militares",
+      "detail": "Há condições de participação específicas, inclusive restrição a exercício de cargo público, com exceção prevista para profissionais de saúde",
+      "source": {
+        "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+        "page": 11,
+        "item": "Item 3.1.1, alínea u"
+      }
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "Portal oficial de inscrições e publicações",
+      "url": "https://www.convocacaotemporarios.fab.mil.br",
+      "source": {
+        "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+        "page": 6,
+        "item": "Item 1.4.2"
+      }
+    }
+  ],
+  "sourceDocuments": [
+    {
+      "file": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+      "pages": 64,
+      "type": "AVICON e anexos A–O",
+      "portaria": "704/2SM1"
+    }
+  ],
+  "sourceReferences": [
+    {
+      "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+      "page": 2,
+      "item": "Portaria"
+    },
+    {
+      "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+      "page": 10,
+      "item": "Item 3.1"
+    },
+    {
+      "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+      "page": 12,
+      "item": "Item 4.1"
+    },
+    {
+      "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+      "page": 13,
+      "item": "Item 5.1"
+    },
+    {
+      "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+      "page": 34,
+      "item": "Anexo B"
+    },
+    {
+      "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+      "page": 40,
+      "item": "Anexo D"
+    },
+    {
+      "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+      "page": 41,
+      "item": "Anexo D — reserva"
+    },
+    {
+      "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+      "page": 42,
+      "item": "Anexo E"
+    },
+    {
+      "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+      "page": 43,
+      "item": "Anexo E"
+    }
+  ],
+  "auditWarnings": [
+    {
+      "severity": "INFO",
+      "description": "Remuneração não quantificada em reais no AVICON. Não extrapolar valores de tabelas remuneratórias externas.",
+      "sources": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 8,
+          "item": "Item 1.8.13"
+        }
+      ],
+      "requiresHumanReview": false
+    },
+    {
+      "severity": "INFO",
+      "description": "O edital não prevê prova objetiva; painel apresenta etapas de seleção e avaliação curricular.",
+      "sources": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 13,
+          "item": "Item 5.1.1"
+        }
+      ],
+      "requiresHumanReview": false
+    },
+    {
+      "severity": "INFO",
+      "description": "Vagas reservadas são globais; não atribuir quantitativos por especialidade sem publicação complementar.",
+      "sources": [
+        {
+          "document": "6feb6f7ed3b12e0eb6d68619242e42a8 (1).pdf",
+          "page": 41,
+          "item": "Anexo D"
+        }
+      ],
+      "requiresHumanReview": false
+    }
+  ],
+  "versionHistory": [
+    {
+      "version": "1.0.0",
+      "date": "2026-10-31",
+      "description": "Extração inicial do AVICON QSCon 2027"
+    },
+    {
+      "version": "2.0.0",
+      "date": "2026-10-31",
+      "description": "Revisão UI/UX: navegação mobile, acessibilidade, fontes contextuais, prazos dinâmicos, seleção e síntese por especialidade; dados do edital preservados."
+    },
+    {
+      "version": "2.1.0",
+      "date": "2026-10-31",
+      "description": "Versão de demonstração aprovada: marca DEMONSTRAÇÃO, watermark discreta, licença explícita, política CSP e manifesto SHA-256 externo; sem telemetria nem DRM."
+    },
+    {
+      "version": "2.2.0",
+      "date": "2026-10-31",
+      "description": "Refinamento de legibilidade mobile e navegação para demonstração em Instagram, sem alterar fatos do edital."
+    },
+    {
+      "version": "2.2.1",
+      "date": "2026-10-31",
+      "description": "Correção do espaço superior e alinhamento justificado dos textos narrativos."
+    },
+    {
+      "version": "2.2.2",
+      "date": "2026-10-31",
+      "description": "Correção dos hashes CSP de estilos e script; preservação do layout e alinhamento justificado."
+    }
+  ],
+  "license": {
+    "productId": "meu-concurso-raio-x",
+    "contestId": "qscon-2027-serep-rj",
+    "licenseId": "MC-RX-DEMO-01A7F2",
+    "licenseType": "DEMO",
+    "version": "2.2.2",
+    "issuedAt": "2026-10-31",
+    "signature": null,
+    "signatureStatus": "UNSIGNED_PROTOTYPE",
+    "securityModel": "OFFLINE_DEMO_NO_DRM",
+    "integrityVerification": "SHA256_EXTERNAL_MANIFEST",
+    "watermark": "DEMONSTRAÇÃO • MC-RX-DEMO-01A7F2"
+  }
+}
